@@ -1,5 +1,5 @@
 # Pytorch 1.0 Implementation of Faster R-CNN + FPN + Cascade Faster R-CNN
-This repo supports Faster R-CNN, FPN and Cascade Faster R-CNN based on pyTorch 1.0. Additionally deformable convolutional layer is also supportted! 
+This repo supports Faster R-CNN, FPN and Cascade Faster R-CNN based on pyTorch 1.0. Additionally deformable convolutional layer is also support! 
 
 ## Train 
 
